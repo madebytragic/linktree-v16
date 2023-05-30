@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./img/avatar.png"/>
+  <img height="150" src="https://res.cloudinary.com/lrmn/image/upload/v1685433909/lrmn.dev/madebytragic1_rdf52a.png"/>
 </div>
 
 ###
@@ -24,8 +24,8 @@
 
 ###
 
- <h3 align="left">👩‍💻  About Me </h3>
- <h4 align="left">I'm L RMN from my mom<br><br> 🔭 I’m working with PC<br> ⚡ In my free time I sleep<br>💔 love has a cost, and both of us lost</p></h4>
+
+ <h4 align="left">💔 love has a cost, and both of us lost</p></h4>
 
 ###
 
@@ -43,18 +43,25 @@ Support me
 
 ###
 
+Built with
+
+- HTML
+- CSS
+
+###
+
 To customize with your information, i recommend making a clone of the project using:
 
 ```bash
-git clone <https://github.com/lrmn7/linktree-v16.git>
+git clone <https://github.com/MADE-BY-TRAGIC/linktree-v2.git>
 ```
 
 ###
 This is a free (and easy to use) alternative to linktree
 
 ###
-<h1 style="text-align: center;"><a href="#">PREVIEW</a></h1>
+<h1 style="text-align: center;"><a href="https://lrmn.is-a.dev/">#MADEbyTRAGIC</a></h1>
 
 <div align="center">
-  <img width="80%" src="./img/screenshot.png">
+  <img width="80%" src="https://res.cloudinary.com/lrmn/image/upload/v1685433807/lrmn.dev/og-github-madebytragic_p4ahi6.png">
 </div> 
